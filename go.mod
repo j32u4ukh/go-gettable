@@ -1,3 +1,3 @@
-module github.com/j32u4ukh/go-gettable
+module github.com/j32u4ukh/gogettable
 
 go 1.18
