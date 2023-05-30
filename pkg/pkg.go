@@ -3,7 +3,7 @@ package pkg
 import (
 	"fmt"
 
-	"github.com/j32u4ukh/gogettable/pkg/utils"
+	"github.com/j32u4ukh/gogettable/v2/pkg/utils"
 )
 
 // Function in pkg package at the top of pkg folder.

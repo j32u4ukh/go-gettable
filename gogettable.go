@@ -3,9 +3,9 @@ package gogettable
 import (
 	"fmt"
 
-	"github.com/j32u4ukh/gogettable/internal"
-	"github.com/j32u4ukh/gogettable/pkg"
-	"github.com/j32u4ukh/gogettable/pkg/utils"
+	"github.com/j32u4ukh/gogettable/v2/internal"
+	"github.com/j32u4ukh/gogettable/v2/pkg"
+	"github.com/j32u4ukh/gogettable/v2/pkg/utils"
 )
 
 // Function in gogettable package at the top of this project.
